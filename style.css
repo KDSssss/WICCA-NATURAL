@@ -1,0 +1,329 @@
+  body {
+    background: rgba(213,158,133,1);
+  
+  }
+  .parteback{
+    width: 100%px;
+    height: 500px;
+    background: rgba(4,11,42,1);
+    top: 0px;
+  }
+  .pb_3 {
+    color: rgba(255,255,255,1);
+    position: absolute;
+    top:160px;
+    left: 578px;
+    font-family: Inter;
+    font-weight: bold;
+    font-size: 54px;
+    opacity: 1;
+    text-align: center;
+    right: 90px;
+  }
+  .pb_5{
+    color: rgba(245,245,245,1);
+    position: absolute;
+    top: 200px;
+    left: 578px;
+    font-family: Inter;
+    font-weight: Bold;
+    font-size: 54px;
+    opacity: 1;
+    text-align: center;
+    right: 90px;
+  }
+  
+  .logo{
+    width: 900px;
+    height: 792px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 10px;
+    left: 155px;
+    overflow: hidden;
+  }
+  .imgnatureza {
+    width: 1600px;
+    height: 1100px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 510px;
+    left: 200px;
+    
+  }
+  .texto1 {
+    width: 753px;
+    position: absolute;
+    top: 580px;
+    left: 684px;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .imgritual {
+   top: 1230px;
+   position: absolute;
+   left: 200px;
+  }
+  .v8_37 {
+    width: 710px;
+    position: absolute;
+    top: 1200px;
+    left: 684px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  .texto2{
+    width: 933px;
+    position: absolute;
+    top: 1400px;
+    left: 684px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+  }
+  h4{
+    color: red;
+  }
+.texto3 {
+  width: 727px;
+  position: absolute;
+  top: 1800px;
+  left: 684px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.texto4 {
+  width: 100%;  position: absolute;
+  top: 2100px;
+  left: 684px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.rituali{
+  opacity: 1;
+    top: 400px;
+  left: -350px;
+  position: absolute;
+}
+.brux {
+  top: 30px;
+  position: absolute;
+  left: -450px;
+}
+.reuniao {
+    opacity: 1;
+    position: absolute;
+    top: -100px;
+    left: -400px;
+}
+.bruxanatural{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: red;
+  
+}
+.v13_18{
+  width: 710px;
+    position: absolute;
+    top: 550px;
+    left: 684px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+}
+.v15_9{
+  width: 710px;
+  position: absolute;
+  top: 1100px;
+  left: 684px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v16_12{
+  width: 710px;
+  position: absolute;
+  top: 1300px;
+  left: 684px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v16_10{
+  width: 710px;
+  position: absolute;
+  top: 1500px;
+  left: 684px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v16_11{
+  width: 710px;
+  position: absolute;
+  top: 1600px;
+  left: 684px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+#quemsou{
+  font-size: 24px;
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue';
+  font-weight: bold;
+  color: crimson;
+}
+p{
+  font-size: 24px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align:center;
+}
+.plantas {
+  width: 346px;
+  color: rgba(39,223,213,1);
+  position: absolute;
+  top: 600px;
+  left: 707px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+  text-shadow: 17px 17px 17px blue;
+}
+#arrud{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  left: 684px;
+  position: absolute;
+  top: 800px;
+}
+h1{
+  color: red;
+  position: absolute;
+  left: 684px;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  top: 950px;
+}
+.lii{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  left: 684px;
+  position: absolute;
+  top: 1000px;
+}
+.hort{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+}
+.arruda{
+  top: 850px;
+  position: absolute;
+  left: 100px;
+
+
+}
+.hortela{
+  top: 1300px;
+  position: absolute;
+  left: 80px;
+
+}
+.pedras{
+  width: 346px;
+  color: yellow;
+  position: absolute;
+  top: 600px;
+  left: 30px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+  text-shadow: 5px 1px 1px orangered;
+}
+.imgturmalina{
+  
+  top: 2350px;
+  position: absolute;
+  left: 30px;
+
+}
+.turmal{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top: 800px;
+}
+.tituloarruda{
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+left: 684px;
+position: absolute;
+top: 800px;
+color: green;
+font-weight: bold;
+text-shadow: 5px 1px 1px darkgreen;
+
+}
+.hortelatitulo{
+  font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+left: 5px;
+position: absolute;
+top: 300px;
+color: green;
+text-shadow: 5px 1px 1px darkgreen;
+font-weight: bold;
+}
+.tituloquatzo{
+  color: palevioletred;
+  font-weight: bold;
+  text-shadow: 3px 1px 1px red;
+}
+b{
+  text-shadow: 5px 1px 1px gray;
+}
+.imgquartzo{
+  top: 2930px;
+  position: absolute;
+}
+nav#menu ul {
+  list-style: none;
+  text-transform: uppercase;
+  position: absolute;
+   top: 440px;
+   left: 1000px;
+
+}
+nav#menu li{
+  display: inline-block;
+  padding: 20px;
+  font-size: 24px;
+ 
+  font-weight: bold;
+}
